@@ -1,3 +1,4 @@
 ---
 ssl: true
 host: prod-mysql:3306
+password: notdefault
