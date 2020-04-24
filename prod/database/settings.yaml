@@ -1,0 +1,3 @@
+---
+ssl: true
+host: prod-mysql:3306

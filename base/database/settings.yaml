@@ -1,0 +1,3 @@
+---
+ssl: true
+host: localhost:3306
