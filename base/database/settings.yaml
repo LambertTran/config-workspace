@@ -1,3 +1,4 @@
 ---
 ssl: false
 host: localhost:3306
+username: helloworld
